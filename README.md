@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashish25
+- 👋 Hi, I’m ashish
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning optimizations
 - 💞️ I’m looking to collaborate on backend development
