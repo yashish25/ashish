@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashish25
-- 👀 I’m interested in mostly backend
+- 👀 I’m interested in backend
 - 🌱 I’m currently learning optimizations
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me : yashish2508@gmail.com
